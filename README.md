@@ -170,7 +170,7 @@ Write a function that sorts an array of integers in ascending order using the [S
    - `1, 4, 13, 40, 121, ...`
 - You’re expected to print the `array` each time you decrease the interval
 
-# No big O notations of the time complexity of the Shell sort (Knuth sequence) algorithm needed - as the complexity is dependent on the size of array and gap
+### No big O notations of the time complexity of the Shell sort (Knuth sequence) algorithm needed - as the complexity is dependent on the size of array and gap
 
 
 #### [5. Cocktail shaker sort]()
