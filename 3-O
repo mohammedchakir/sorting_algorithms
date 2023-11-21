@@ -1,3 +1,3 @@
-O(nlog(n))  /* Best case: The partitioning is always balanced */
-O(nlog(n))  /* Average case */
-O(n^2)  /* Worst case: The partitioning is highly unbalanced */
+O(nlog(n))
+O(nlog(n))
+O(n^2)
