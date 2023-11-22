@@ -105,7 +105,7 @@ Here is a quick tip to help you test your sorting algorithms with big sets of ra
 
 ## *Tasks:*
 
-#### [0. Bubble sort]()
+#### [0. Bubble sort](0-bubble_sort.c)
 
 Write a function that sorts an array of integers in ascending order using the [Bubble sort](https://en.wikipedia.org/wiki/Bubble_sort) algorithm
 
@@ -118,7 +118,7 @@ Write in the file `0-O`, the big O notations of the time complexity of the Bubbl
 - in the average case
 - in the worst case
 
-#### [1. Insertion sort]()
+#### [1. Insertion sort](1-insertion_sort_list.c)
 
 Write a function that sorts a doubly linked list of integers in ascending order using the [Insertion sort](https://en.wikipedia.org/wiki/Insertion_sort) algorithm
 
@@ -132,7 +132,7 @@ Write in the file `1-O`, the big O notations of the time complexity of the Inser
 - in the average case
 - in the worst case
 
-#### [2. Selection sort]()
+#### [2. Selection sort](2-selection_sort.c)
 
 Write a function that sorts an array of integers in ascending order using the [Selection sort](https://en.wikipedia.org/wiki/Selection_sort) algorithm
 
@@ -145,7 +145,7 @@ Write in the file `2-O`, the big O notations of the time complexity of the Selec
 - in the average case
 - in the worst case
 
-#### [3. Quick sort]()
+#### [3. Quick sort](3-quick_sort.c)
 
 Write a function that sorts an array of integers in ascending order using the [Quick sort](https://en.wikipedia.org/wiki/Quicksort) algorithm
 
@@ -160,7 +160,7 @@ Write in the file `3-O`, the big O notations of the time complexity of the Quick
 - in the average case
 - in the worst case
 
-#### [4. Shell sort - Knuth Sequence]()
+#### [4. Shell sort - Knuth Sequence](100-shell_sort.c)
 
 Write a function that sorts an array of integers in ascending order using the [Shell sort](https://en.wikipedia.org/wiki/Shellsort) algorithm, using the `Knuth sequence`
 
@@ -173,7 +173,7 @@ Write a function that sorts an array of integers in ascending order using the [S
 ### No big O notations of the time complexity of the Shell sort (Knuth sequence) algorithm needed - as the complexity is dependent on the size of array and gap
 
 
-#### [5. Cocktail shaker sort]()
+#### [5. Cocktail shaker sort](101-cocktail_sort_list.c)
 
 Write a function that sorts a doubly linked list of integers in ascending order using the [Cocktail shaker sort](https://en.wikipedia.org/wiki/Cocktail_shaker_sort) algorithm
 
@@ -187,7 +187,7 @@ Write in the file `101-O`, the big O notations of the time complexity of the Coc
 - in the average case
 - in the worst case
 
-#### [6. Counting sort]()
+#### [6. Counting sort](102-counting_sort.c)
 
 Write a function that sorts an array of integers in ascending order using the [Counting sort](https://en.wikipedia.org/wiki/Counting_sort) algorithm
 
@@ -203,7 +203,7 @@ Write in the file `102-O`, the big O notations of the time complexity of the Cou
 - in the average case
 - in the worst case
 
-#### [7. Merge sort]()
+#### [7. Merge sort](103-merge_sort.c)
 
 Write a function that sorts an array of integers in ascending order using the [Merge sort](https://en.wikipedia.org/wiki/Merge_sort) algorithm
 
@@ -220,7 +220,7 @@ Write in the file `103-O`, the big O notations of the time complexity of the Mer
 - in the average case
 - in the worst case
 
-#### [8. Heap sort]()
+#### [8. Heap sort](104-heap_sort.c)
 
 Write a function that sorts an array of integers in ascending order using the [Heap sort](https://en.wikipedia.org/wiki/Heapsort) algorithm
 
@@ -234,7 +234,7 @@ Write in the file `104-O`, the big O notations of the time complexity of the Hea
 - in the average case
 - in the worst case
 
-#### [9. Radix sort]()
+#### [9. Radix sort](105-radix_sort.c)
 
 Write a function that sorts an array of integers in ascending order using the [Radix sort](https://en.wikipedia.org/wiki/Radix_sort) algorithm
 
@@ -245,7 +245,7 @@ Write a function that sorts an array of integers in ascending order using the [R
 - You’re expected to print the array each time you increase your `significant digit`
 
 
-#### [10. Bitonic sort]()
+#### [10. Bitonic sort](106-bitonic_sort.c)
 
 Write a function that sorts an array of integers in ascending order using the [Bitonic sort](https://en.wikipedia.org/wiki/Bitonic_sorter) algorithm
 
@@ -261,7 +261,7 @@ Write in the file `106-O`, the big O notations of the time complexity of the Bit
 - in the worst case
 
 
-#### [11. Quick Sort - Hoare Partition scheme]()
+#### [11. Quick Sort - Hoare Partition scheme](107-quick_sort_hoare.c)
 
 Write a function that sorts an array of integers in ascending order using the [Quick sort](https://en.wikipedia.org/wiki/Quicksort) algorithm
 
@@ -276,7 +276,7 @@ Write in the file `107-O`, the big O notations of the time complexity of the Qui
 - in the average case
 - in the worst case
 
-#### [12. Dealer]()
+#### [12. Dealer](1000-sort_deck.c)
 
 Write a function that sorts a deck of cards.
 
