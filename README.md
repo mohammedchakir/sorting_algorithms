@@ -107,6 +107,8 @@ Here is a quick tip to help you test your sorting algorithms with big sets of ra
 
 #### [0. Bubble sort](0-bubble_sort.c)
 
+https://youtu.be/lyZQPjUT5B4
+
 Write a function that sorts an array of integers in ascending order using the [Bubble sort](https://en.wikipedia.org/wiki/Bubble_sort) algorithm
 
 - Prototype: `void bubble_sort(int *array, size_t size);`
